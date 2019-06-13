@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 14:07:32 2019
-
-@author: admin
-"""
-
 5/8 #division 
 print("Hello" ,5, "World") 
 print("I am learning to code in python today")
@@ -70,5 +63,47 @@ k = 16
 def useranswer(k):
     print(math.pow(k,(1/3)))
     
-useranswer(k)
+useranswer
+
+cadbury1 = "milk choclate"
+cadbury2 = "dark chocolate"
+cadbury3 = "white chocolate"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
